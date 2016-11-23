@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grizzly Morse Code</string>
+    <string name="textView1">Text To Transmit:</string>
+    <string name="editView1"></string>
+    <string name="btnTransmit">Transmit</string>
+    <string name="abtBtn">About</string>
+    <string name="litArea"></string>
+</resources>
